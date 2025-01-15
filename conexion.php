@@ -1,6 +1,6 @@
 <?php
 class Cconexion{
-    
+     
     function ConexionBD(){
         $config = include('config.php');
         $host = $config['host'];
